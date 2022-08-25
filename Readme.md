@@ -1,5 +1,3 @@
-#Project 2 Repositories
-
 <div id="top"></div>
 
 <!-- Social Links -->
@@ -49,7 +47,7 @@
 
 <!-- *** Change Here Blog Image  -->
 
-![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-4/blob/main/4.png)
+![Project 4: uiproject-4](https://github.com/ani294/UI_HTML_CSS_Project-4/blob/main/4.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
